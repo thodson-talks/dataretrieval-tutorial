@@ -1,0 +1,10 @@
+name: dataretrieval
+channels:
+- conda-forge
+dependencies:
+- cartopy=0.23
+- hvplot=0.10
+- geopandas=0.14
+- geoviews=1.12
+- pandas=2.2
+- dataretrieval
